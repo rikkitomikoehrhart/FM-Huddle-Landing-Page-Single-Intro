@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/rikkitomikoehrhart/FM-Huddle-Landing-Page-Single-Intro](https://github.com/rikkitomikoehrhart/FM-Huddle-Landing-Page-Single-Intro)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://rikkitomikoehrhart.github.io/FM-Huddle-Landing-Page-Single-Intro](https://rikkitomikoehrhart.github.io/FM-Huddle-Landing-Page-Single-Intro)
 
 ## My process
 
@@ -35,7 +35,7 @@ Users should be able to:
 
 - HTML
 - CSS
-
+- Simple CSS animations
 
 ## Author
 
