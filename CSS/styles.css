@@ -40,6 +40,11 @@ h1 {
     align-items: center;
 }
 
+.info-section {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
 .mockups img {
     width: 700px;
     padding-top: 50px;
@@ -49,7 +54,6 @@ h1 {
 
 .nav img {
     padding-left: 50px;
-    padding-top: 50px;
     width: 250px;
 }
 
